@@ -13,7 +13,7 @@
 
 ---
 
-- 📍 Based in **UzbekistanUZ**
+- 📍 Based in **Uzbekistan UZ**
 
 ### 🛠️ Tech Stack
 
