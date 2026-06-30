@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github-readme-generator-zeta.vercel.app/api/banner?name=Ogabek%20Olimjonov&title=Frontend%20Developer&theme=radical" alt="Banner" width="850"/>
+  <img src="https://github-readme-generator-zeta.vercel.app/api/banner?name=Og'abek%20Olimjonov&title=Frontend%20Developer&theme=radical" alt="Banner" width="850"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Ogabek Olimjonov</h1>
+<h1 align="center">Hi 👋, I'm Og'abek Olimjonov</h1>
 <h3 align="center">Frontend Developer</h3>
 
 <p align="center">Passionate Frontend Developer dedicated to building beautiful, interactive, and responsive user interfaces. I love bringing designs to life with clean code and creating amazing web experiences! ✨</p>
