@@ -23,7 +23,7 @@
 
 #### 🛠️ DevOps, Mobile & Tools
 
-<p align="center"><img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" width="40" height="40"/></p>
 
 ### 📊 GitHub Stats
 
