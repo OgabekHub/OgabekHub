@@ -13,8 +13,9 @@
 
 ### 🐍 Contribution Snake
 
-> ⚠️ *Snake animatsiyasi ko'rinishi uchun profil repoda GitHub Actions sozlash kerak:*
->
+<details>
+<summary>⚙️ <b>Snake animatsiyasini o'rnatish yo'riqnomasi</b> (ko'rish uchun bosing)</summary>
+
 > 1. `OgabekHub/OgabekHub` reponi oching
 > 2. `.github/workflows/snake.yml` faylini yarating:
 > ```yaml
@@ -30,7 +31,7 @@
 >       - uses: Platane/snk@v3
 >         with:
 >           github_user_name: ${{ github.repository_owner }}
->           outputs: dist/github-contribution-grid-snake.svg
+>           outputs: dist/github-contribution-grid-snake.svg?palette=github-dark
 >       - uses: crazy-max/ghaction-github-pages@v3
 >         with:
 >           target_branch: output
@@ -38,6 +39,8 @@
 >         env:
 >           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 > ```
+
+</details>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/OgabekHub/OgabekHub/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
