@@ -17,23 +17,23 @@
 
 ### 🛠️ Tech Stack
 
-#### 💻 Frontend
-
-<p align="center"><img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/></p>
-
-#### 🛠️ DevOps, Mobile & Tools
-
-<p align="center"><img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" width="40" height="40"/></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" width="40" height="40"/></p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=OgabekHub&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OgabekHub&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-stats-extended.vercel.app/api?username=OgabekHub&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OgabekHub&hide_border=true&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OgabekHub&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=OgabekHub&layout=compact&hide_border=true&theme=radical" alt="Top Languages"/>
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OgabekHub&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 </p>
 
 ---
