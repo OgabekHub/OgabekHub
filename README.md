@@ -1,4 +1,31 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=7C5CFC&height=120&section=header&text=Og'abek%20Olimjonov&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="Header" width="100%"/></p>
+
+<p align="center">
+  <img src="https://github-readme-generator-zeta.vercel.app/api/banner?name=Og'abek%20Olimjonov&title=Frontend%20Developer&theme=radical" alt="Banner" width="850"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Og'abek Olimjonov</h1>
+<h3 align="center">Frontend Developer</h3>
+
+<p align="center">A dedicated Frontend Developer with a passion for crafting modern web experiences. Specializes in integrating AI and automation to build intelligent, dynamic systems. Expertise spans JavaScript, React, and leveraging AI tools for innovative solutions.</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/og-abek-olimjonov-2a52b3364/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://t.me/olimjonov_ogabek" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> <a href="https://www.facebook.com/Ogabek.Ol1mjonov" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a> <a href="https://ogabek-olimjonov-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-7C5CFC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a> <a href="mailto:olimjonov.ogabek.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+- 📍 Based in **Namangan, Uzbekistan**
+
+### 🛠️ Tech Stack
+
+#### 💻 Frontend
+
+<p align="center"><img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/></p>
+
+#### 🛠️ DevOps, Mobile & Tools
+
+<p align="center"><img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" width="40" height="40"/></p>
 
 ### 📊 GitHub Stats
 
@@ -11,36 +38,14 @@
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=OgabekHub&layout=compact&hide_border=true&theme=radical" alt="Top Languages"/>
 </p>
 
+### 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OgabekHub&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+</p>
+
 ### 🐍 Contribution Snake
 
-<details>
-<summary>⚙️ <b>Snake animatsiyasini o'rnatish yo'riqnomasi</b> (ko'rish uchun bosing)</summary>
-
-> 1. `OgabekHub/OgabekHub` reponi oching
-> 2. `.github/workflows/snake.yml` faylini yarating:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: dist/github-contribution-grid-snake.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
-</details>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/OgabekHub/OgabekHub/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
@@ -49,6 +54,8 @@
 ---
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=OgabekHub&label=Profile%20Views&color=7c5cfc&style=for-the-badge" alt="Profile Views"/></p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=7C5CFC&height=80&section=footer" alt="Footer" width="100%"/></p>
 
 ---
 <p align="center"><i>Generated with ❤️ using <a href="https://github-readme-generator-zeta.vercel.app" target="_blank">GitHub README Generator</a>. Star the repository on <a href="https://github.com/OgabekHub/github-readme-generator" target="_blank">GitHub</a>! ⭐</i></p>
